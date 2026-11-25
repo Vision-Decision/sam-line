@@ -1,0 +1,7 @@
+torch>=2.4
+transformers>=5.20
+huggingface_hub
+safetensors
+numpy
+opencv-python-headless
+pillow
